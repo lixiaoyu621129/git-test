@@ -4,9 +4,6 @@ target/
 !**/src/main/**/target/
 !**/src/test/**/target/
 
-### 自己弄的一个文件夹 ###
-files/
-
 ### STS ###
 .apt_generated
 .classpath
@@ -18,11 +15,9 @@ files/
 
 ### IntelliJ IDEA ###
 .idea
-.mvn
 *.iws
 *.iml
 *.ipr
-.DS_store
 
 ### NetBeans ###
 /nbproject/private/
